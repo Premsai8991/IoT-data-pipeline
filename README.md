@@ -156,7 +156,7 @@ The system automatically generates alerts when abnormal sensor values are detect
   "timestamp": null
 }
 
-## Example Alert Response
+ # Example Alert Response
 
 ```json
 {
@@ -170,7 +170,7 @@ The system automatically generates alerts when abnormal sensor values are detect
   "timestamp": "2026-03-06T18:36:27.879546"
 }
 
-## How to Run the Project
+### How to Run the Project
 
 ### 1) Clone the repository
 
