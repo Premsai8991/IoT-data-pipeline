@@ -266,10 +266,12 @@ Swagger UI allows you to test all endpoints directly.
 ## Author
 
 **Naga Prem Sai Nellure**
+
 Florida Atlantic University  
 M.S. Computer Engineering  
 
 ### Focus Areas
+
 - Artificial Intelligence
 - IoT Systems
 - Cybersecurity
