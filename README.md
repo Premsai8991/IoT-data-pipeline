@@ -31,25 +31,25 @@ This project demonstrates how IoT devices send telemetry data to a backend API, 
 
 ---
 
-# Project Architecture
+## Project Architecture
+
+```
 Device Simulator
-        ↓
+      ↓
 FastAPI Telemetry API
-        ↓
+      ↓
 Schema Validation (Pydantic)
-        ↓
+      ↓
 Data Processing
-        ↓
+      ↓
 SQLite Database Storage
-        ↓
+      ↓
 Telemetry Query APIs
-        ↓
+      ↓
 Alert Detection System
-        ↓
+      ↓
 Alerts API
-
-
----
+```
 
 # Features
 
