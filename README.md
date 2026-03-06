@@ -181,6 +181,8 @@ git clone https://github.com/Premsai8991/iot-data-pipeline-demo.git
 cd iot-data-pipeline-demo
 ```
 
+---
+
 ### 2) Create a virtual environment
 
 ```bash
