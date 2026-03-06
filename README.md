@@ -6,6 +6,13 @@ This project demonstrates how IoT devices send telemetry data to a backend API, 
 
 ---
 
+## Project Demo
+
+Below is a live demonstration of the IoT data pipeline running.  
+The device simulator sends telemetry data to the FastAPI backend, which processes and stores the data and generates alerts.
+
+![IoT Pipeline Demo](IoT%20data%20pipeline%20output.gif)
+
 # Features
 
 - Simulated IoT device sending telemetry every **5 seconds**
