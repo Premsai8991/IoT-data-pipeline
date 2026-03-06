@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+iot_demo.db
+.env
+.vscode/
