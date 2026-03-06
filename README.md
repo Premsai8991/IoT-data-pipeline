@@ -78,8 +78,10 @@ Alerts API
 
 ---
 
-# Project Structure
-iot-data-pipeline-demo/
+## Project Structure
+
+```
+iot-data-pipeline/
 │
 ├── app/
 │   ├── db/
@@ -98,9 +100,7 @@ iot-data-pipeline-demo/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
-
----
+```
 
 # API Endpoints
 
