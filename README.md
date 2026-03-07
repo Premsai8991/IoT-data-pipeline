@@ -6,12 +6,16 @@ This project demonstrates how IoT devices send telemetry data to a backend API, 
 
 ---
 
-## Project Demo
+# IoT Data Pipeline
 
-Below is a live demonstration of the IoT data pipeline running.  
-The device simulator sends telemetry data to the FastAPI backend, which processes and stores the data and generates alerts.
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API%20Framework-green)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red)
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-![IoT Pipeline Demo](IoT%20data%20pipeline%20output.gif)
+A realistic **device-to-cloud IoT telemetry pipeline** built with FastAPI, SQLAlchemy, and SQLite.  
+The system simulates IoT devices sending telemetry data, validates it, stores it in a database, and generates alerts for abnormal sensor readings.
 
 # Features
 
